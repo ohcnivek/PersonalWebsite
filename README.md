@@ -1,3 +1,3 @@
 # ohnivek.github.io
 
-- Go [here](https://kevincho.herokuapp.com/)
+- Deployed using Heroku 😛 [here](https://kevincho.herokuapp.com/)
