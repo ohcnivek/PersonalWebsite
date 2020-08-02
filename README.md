@@ -1,3 +1,4 @@
-# ohnivek.github.io
+# kev's website
 
-- Deployed using Heroku 😛 [here](https://kevincho.herokuapp.com/)
+- deployed using Heroku
+- the website is [here](https://kevincho.herokuapp.com/)
